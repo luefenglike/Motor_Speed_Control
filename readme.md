@@ -1,6 +1,7 @@
-﻿<div align="center">
+<div align="center">
   <img src=./shiwutu.jpg >
 </div>
+
 # 项目名称：基于stm32的直流伺服电机转速控制
 
 > 关键词：`Simulink` `PID控制` `L298N直流电机驱动` `定时器编码器模式` `PWM输出模式`
@@ -30,8 +31,8 @@
 
 ---
 
-## 4. 方案设计与主要实现模块
-![图片说明](./zhuxunhuan.jpg)
-![图片说明](./pid.jpg)
+## 4. 主要实现模块
+![图片说明](./zhuxunhuan.png)
+![图片说明](./pid.png)
 
 ---
